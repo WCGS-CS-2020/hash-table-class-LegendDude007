@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "C:\\Users\\LegendDude\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\LegendDude\\.nuget\\packages"
+    ]
+  }
+}
